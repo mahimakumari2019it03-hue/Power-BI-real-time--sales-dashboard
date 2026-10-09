@@ -14,7 +14,7 @@ DAX
 Data Visualization
 ## Project Workflow
 Data Import - Data Cleaning - Data Transformation - Data Modeling - Dashboard Development - Insights
-Learning Source
+## Learning Source
 This project was developed as a practical learning exercise using a guided tutorial: https://youtu.be/mmxVCFceQgU?si=-H_PeQ_tsqSn8UT8
 ## Key Learnings
 Data transformation using Power Query
